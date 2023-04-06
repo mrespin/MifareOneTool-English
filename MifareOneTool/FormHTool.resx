@@ -153,7 +153,7 @@
     <value>Save</value>
   </data>
   <data name="另存为ToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Maj+S</value>
+    <value>Ctrl+Shift+S</value>
   </data>
   <data name="另存为ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>283, 34</value>
